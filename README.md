@@ -50,7 +50,7 @@ Recency Rate by Marital Status: Explore and capitalize on the higher recency rat
 Purchase Preferences: Optimize in-store experiences and promotions based on customer preferences.
 
 
-**#Conclusion:**
+**Conclusion:**
 1.The analysis of customer demographics and spending behavior revealed differences between customers who responded to marketing campaigns and those who did not, particularly in various product categories.
 2.The provided dataset underwent essential data cleaning and preprocessing, including the handling of missing values and the conversion of different columns to a datetime object.
 3.Descriptive statistics were calculated for numerical variables, offering insights into the dataset's central tendencies and variations.
