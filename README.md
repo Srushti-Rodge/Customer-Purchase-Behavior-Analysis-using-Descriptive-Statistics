@@ -1,4 +1,5 @@
 # Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics 
+![Customer Purchase](https://drive.google.com/uc?export=view&id=1PrLQOi1MKeAQbCmpzRJhzVhOWrT9PQG7)
 # Overview
 Welcome to the Customer Purchase Behavior Analysis project! This project involves the thorough analysis of a dataset containing customer information and purchasing behavior. The objective is to uncover patterns, trends, and correlations within the data, ultimately providing valuable insights to optimize marketing efforts and increase offer acceptance rates.
 
